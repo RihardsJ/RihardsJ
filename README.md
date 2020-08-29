@@ -1,17 +1,24 @@
-## Hello My name is Rihards and Welocme to my Github page! 👋
+## Hello I'm Rihards and Welocme to my Github page! 👋
 
-### About myself
+### My history
 
-Back in 2008 I have graduated Riga State Technical school as a [Programming Technician](https://www.rvt.lv/eng/department/computer/study-programm). 
+Back in 2008 I have graduated Riga State Technical school as a [Programming Technician](https://www.rvt.lv/eng/department/computer/study-programm). There I first time develop deep interest in coding. The studies also allowed me to gain basic knowledge about software development through **Pascal** and **C++**. Life made some corrections and instead of becoming a developer I have moved to UK and worked in hotel industry. Luckly I have recieved a second chance in my life to chace my dream of becoming a web developer. I have been accepted into brilliant community of Founders and Coders where I am intensively developing my coding skills.
 
+### Currently
 
+- 🇬🇧 Based in London 💂
+- 🎓 Learning full-stack web development **@[Founders and Coders](https://www.foundersandcoders.com/)**.
+- 🌱 **HTML5, CSS3, Javascript, SQL**
+- 🔭 Working on my full-stack student projects using: **Git/GitHub, NodeJS, ExpressJS, React, PostgreSQL, Heroku, VScode(including Prettier, LiveSare etc), Zoom**.
+- 🗿 I am still developing but I have good understanding about: **Testing, HTTP requests, RESTApis, DOM, Authentications**.
+- 🎯 My goal is to build my portfolio, become a junior web developer, and start my life long journey in software development industry.
+- 🤩 I would be excited to work in highly callaborative environment where I could sare my current knowledge a
+- 📫 Intrested to collaborate and looking for advice please reach me: rihards.jukna@gmail.com
 
-- 🌱 Currently learning full-stack web development @[Founders and Coders](https://www.foundersandcoders.com/).
-- 🔭 I’m working on my full-stack student projects using: HTML, CSS, Javascript,
-- 🎯 My goal is to become a junior web developer and start my life long journey in software development industry.
-- 📫 If you are intrested to collaborate or looking for advice please reach me: rihards.jukna@gmail.com
-- 
-- ⚡ Fun fact: fan of drift especially: [DriftMasters](https://www.driftmasters.gp/), [RDS](https://rdstv.ru/en/) or FORMULA DRIFT(http://www.formulad.com/)
+### P.S.
+
+- ⚡ Fun fact: fan of drift 🏁 especially: [DriftMasters](https://www.driftmasters.gp/), [RDS](https://rdstv.ru/en/) and [FORMULA DRIFT](http://www.formulad.com/)
+
 
 <!--
 **RihardsJ/RihardsJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
