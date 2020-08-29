@@ -11,7 +11,7 @@ Back in 2008 I have graduated Riga State Technical school as a [Programming Tech
 - 🌱 **HTML5, CSS3, Javascript, SQL**
 - 🔭 Working on my full-stack student projects using: **Git/GitHub, NodeJS, ExpressJS, React, PostgreSQL, Heroku, VScode(including Prettier, LiveSare etc), Zoom**.
 - 🗿 I am still developing but I have good understanding about: **Testing, HTTP requests, RESTApis, DOM, Authentications**.
-- 🎯 My goal is to build my portfolio, become a junior web developer, and start my life long journey in software development industry.
+- 🎯 My goal is to build my portfolio, become a **Junior Web developer**, and start my life long journey in software development industry.
 - 🤩 I would be excited to work in highly callaborative environment where I could sare my current knowledge a
 - 📫 Intrested to collaborate and looking for advice please reach me: rihards.jukna@gmail.com
 
