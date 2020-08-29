@@ -2,7 +2,7 @@
 
 ### My history
 
-Back in 2008, I have graduated from Riga State Technical school as a [Programming Technician](https://www.rvt.lv/eng/department/computer/study-programm). There I first time develop a deep interest in coding. The studies also allowed me to gain basic knowledge about software development through **Pascal** and **C++**. Life made some corrections and instead of becoming a developer I have moved to the UK and worked in the hotel industry. Luckily I have received a second chance in my life to chase my dream of becoming a web developer. I have been accepted into a brilliant community of Founders and Coders where I am intensively developing my coding skills.
+Back in 2008, I have graduated from Riga State Technical school as a [Programming Technician](https://www.rvt.lv/eng/department/computer/study-programm). There I first time develop a deep interest in coding. The studies also allowed me to gain basic knowledge about software development through **Pascal** and **C++**. Life made some corrections and instead of becoming a developer I have moved to the UK and worked in the hotel industry. During my time in five-star luxury hotels, I learned how to represent an organization where I am working. Also, developed my teamwork and communication skills, and gained the ability to work under pressure. Luckily I have received a second chance in my life to chase my dream of becoming a web developer. I have been accepted into a brilliant community of Founders and Coders where I am intensively developing my coding skills.
 
 ### Currently
 
