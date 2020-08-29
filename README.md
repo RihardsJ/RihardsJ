@@ -14,7 +14,7 @@ Back in 2008, I have graduated from Riga State Technical school as a [Programmin
 - 💻 I comfortable using: NPM package management, Linux OS, Insomnia.
 - 💪 Strength besides writting code: **pair programming**, **teamwork and flexability**, **code review** and **explaination of a code** to a person who is not familiar with coding. 
 - 🎯 My goal is to build my portfolio, become a **Junior Web developer**, and start my life long journey in software development industry.
-- 🤩 I would be excited to work in highly callaborative environment and .
+- 🤩 I would be excited to work in highly callaborative environment where I could contribute my effort in exchange for a career development opportunities.
 - 📫 Intrested to collaborate and looking for advice please reach me: rihards.jukna@gmail.com
 
 ### P.S.
