@@ -1,12 +1,11 @@
-### Hello 👋
+## Hello and Welocme to my Github page! 👋
 
-![RJ_logo_yellow](https://user-images.githubusercontent.com/48697281/91641508-cac34480-ea1c-11ea-9084-edcee2145a1f.png )
+My name is Rihards. Simply RI-HARD. Back in 2008 I have graduated Riga State Technical school as a [Programming Technician](https://www.rvt.lv/eng/department/computer/study-programm)
 
-
-- 🌱 I’m currently learning full-stack web development @founders and couders.
-
-- 🔭 I’m currently working on studen
-
+- 🌱 Currently learning full-stack web development @[Founders and Coders](https://www.foundersandcoders.com/).
+- 🔭 I’m working on my full-stack student projects using: HTML, CSS, Javascript,
+- 🎯 My goal is to become a junior web developer and start my life long journey in software development industry.
+- 📫 I am looking for an opportunities to start my web development career so please reach me: rihards.jukna@gmail.com
 
 <!--
 **RihardsJ/RihardsJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
