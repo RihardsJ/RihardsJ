@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello 👋
+
+![RJ_logo_yellow](https://user-images.githubusercontent.com/48697281/91641508-cac34480-ea1c-11ea-9084-edcee2145a1f.png )
+
+
+- 🌱 I’m currently learning full-stack web development @founders and couders.
+
+- 🔭 I’m currently working on studen
+
 
 <!--
 **RihardsJ/RihardsJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,8 +15,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,6 +22,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 
 I am passionate tech-head who is learning web-development in "Founders and Coders" and looking for an opportunity to become a developer. 
 Prior coding I have worked in luxury five-star hotels in London. That experience allowed me to meet from different backgrounds, build my communication and teamwork skills as well as to develop my organisational skills. I liked what I have done but I did not feel that I am making any impact. Before moving to London
