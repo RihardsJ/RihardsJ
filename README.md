@@ -12,7 +12,7 @@ Back in 2008, I have graduated from Riga State Technical school as a [Programmin
 - 🔭 Working on my full-stack student projects using: **Git/GitHub, NodeJS, ExpressJS, React, PostgreSQL, Heroku, VScode(including Prettier, LiveSare etc), Zoom**.
 - 🗿 I am still developing but I have good understanding about: **Testing(TDD), HTTP requests, RESTApis, DOM, Authentications**.
 - 💻 I comfortable using: NPM package management, Linux OS, Insomnia.
-- 💪 Strength besides writting code: **Pair Programming, **Teamwork and Flexability**, **Code review** and **explain my code** for a person who is not familiar with coding. 
+- 💪 Strength besides writting code: **pair programming**, **teamwork and flexability**, **code review** and **explaination of a code** to a person who is not familiar with coding. 
 - 🎯 My goal is to build my portfolio, become a **Junior Web developer**, and start my life long journey in software development industry.
 - 🤩 I would be excited to work in highly callaborative environment and .
 - 📫 Intrested to collaborate and looking for advice please reach me: rihards.jukna@gmail.com
