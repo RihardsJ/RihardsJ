@@ -1,11 +1,17 @@
-## Hello and Welocme to my Github page! 👋
+## Hello My name is Rihards and Welocme to my Github page! 👋
 
-My name is Rihards. Simply RI-HARD. Back in 2008 I have graduated Riga State Technical school as a [Programming Technician](https://www.rvt.lv/eng/department/computer/study-programm)
+### About myself
+
+Back in 2008 I have graduated Riga State Technical school as a [Programming Technician](https://www.rvt.lv/eng/department/computer/study-programm). 
+
+
 
 - 🌱 Currently learning full-stack web development @[Founders and Coders](https://www.foundersandcoders.com/).
 - 🔭 I’m working on my full-stack student projects using: HTML, CSS, Javascript,
 - 🎯 My goal is to become a junior web developer and start my life long journey in software development industry.
-- 📫 I am looking for an opportunities to start my web development career so please reach me: rihards.jukna@gmail.com
+- 📫 If you are intrested to collaborate or looking for advice please reach me: rihards.jukna@gmail.com
+- 
+- ⚡ Fun fact: fan of drift especially: [DriftMasters](https://www.driftmasters.gp/), [RDS](https://rdstv.ru/en/) or FORMULA DRIFT(http://www.formulad.com/)
 
 <!--
 **RihardsJ/RihardsJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +25,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 
