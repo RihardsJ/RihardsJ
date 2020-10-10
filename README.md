@@ -9,7 +9,7 @@ Back in 2008, I have graduated from Riga State Technical school as a [Programmin
 - 🇬🇧 Based in London 💂
 - 🎓 Learning full-stack web development **@[Founders and Coders](https://www.foundersandcoders.com/)**.
 - 🌱 I have good knowledge of **HTML5 (semantic html), CSS3, Javascript, SQL**
-- 🔭 Working on my full-stack student projects using: **Git/GitHub, NodeJS, ExpressJS, React, PostgreSQL, Heroku, VScode(including Prettier, LiveSare etc), Zoom**.
+- 🔭 Working on my full-stack student projects using: **Git/GitHub, NodeJS, ExpressJS, React, PostgreSQL, Heroku, Netlify, CirecleCI, Codecov, VScode(including Prettier, LiveSare etc), Zoom**.
 - 🗿 I am still developing but I have good understanding about: **Testing(TDD), HTTP requests, RESTApis, DOM, Authentications**.
 - 💻 I comfortable using: NPM package management, Linux OS, Insomnia.
 - 💪 Strength besides writting code: **pair programming**, **teamwork and flexability**, **code review** and **explaination of a code** to a person who is not familiar with coding. 
