@@ -1,4 +1,4 @@
-## Hello I'm Rihards and Welocme to my Github page! 👋
+## Hello I'm Rihards and Welcome to my Github page! 👋
 
 ### My history
 
