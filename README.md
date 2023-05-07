@@ -10,4 +10,4 @@
   - Others: **Webpack, Lerna, Docker, GCP**
 - 🎯 My goal is to eventually become a great staff engineer
 - 🤩 I would be excited to work in highly callaborative environment where I could contribute my effort in exchange for a career development opportunities.
-- 📫 Intrested to collaborate and looking for advice please reach me: rihardsj@pm.me
+- 📫 Intrested to collaborate and looking for advice please reach me
