@@ -1,11 +1,13 @@
 ## Hello I'm Rihards and Welcome to my Github page! 👋
 - 💻 Full stack software engineer
 - 🇬🇧 Based in London 💂
-- 📢 Languages that I am comfortable with: **JavaScript, Go, Python, SQL, LUA**
+- 🥇 Syntax that I am the most comfortable with: **JavaScript, HTML, CSS, SQL,**
+- 🥈 Technologies that I am familiar with: **TypeScript, Python, Lua**
+- 🥉 Something that I am actively learning: **GO, Rust**
 - 🔭 Familiar frameworks and libraries:
-  - **Frontend:** React, Astro, NextJS, Gatsby
-  - **Backend:** NodeJS, Gin, Flask, FastAPI
-  - **Others:** Webpack, Lerna, Docker
+  - Frontend: **React, Astro, NextJS, Gatsby**
+  - Backend: **NodeJS, Gin, Flask, FastAPI**
+  - Others: **Webpack, Lerna, Docker, GCP**
 - 🎯 My goal is to eventually become a great staff engineer
 - 🤩 I would be excited to work in highly callaborative environment where I could contribute my effort in exchange for a career development opportunities.
-- 📫 Intrested to collaborate and looking for advice please reach me: rihards.jukna@gmail.com
+- 📫 Intrested to collaborate and looking for advice please reach me: rihardsj@pm.me
